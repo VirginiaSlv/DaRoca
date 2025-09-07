@@ -1,0 +1,16 @@
+G:\COTUCA\appDaRoca\bin\Debug\appDaRoca.exe.config
+G:\COTUCA\appDaRoca\bin\Debug\appDaRoca.exe
+G:\COTUCA\appDaRoca\bin\Debug\appDaRoca.pdb
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.csproj.AssemblyReference.cache
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.frmListaPedidos.resources
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.frmLogin.resources
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.frmCentroDeDistribuicao.resources
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.frmInicio.resources
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.frmMotoristas.resources
+G:\COTUCA\appDaRoca\obj\Debug\dataSelec.resources
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.frmRota.resources
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.Properties.Resources.resources
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.csproj.GenerateResource.cache
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.csproj.CoreCompileInputs.cache
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.exe
+G:\COTUCA\appDaRoca\obj\Debug\appDaRoca.pdb
