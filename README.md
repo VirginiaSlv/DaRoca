@@ -23,7 +23,7 @@ O foco principal do sistema é **otimizar o transporte dos alimentos**, utilizan
 
 O sistema é composto por dois módulos principais:
 
-### 🖥️ Front-end (C# com Windows Forms)
+### 🖥️ C# com Windows Forms
 
 - Interface gráfica intuitiva
 - Gerenciamento de:
@@ -31,18 +31,6 @@ O sistema é composto por dois módulos principais:
   - Motoristas
   - Centros de distribuição
   - Histórico de entregas
-
-### 🧠 Back-end (Python - Lógica de Otimização)
-
-- Conexão direta com o banco de dados
-- Leitura e manipulação de dados de:
-  - Clientes
-  - Pedidos
-  - Centros de distribuição
-  - Motoristas
-- Distribuição equitativa de pedidos entre motoristas de um mesmo centro
-- Cálculo da **rota de entrega mais eficiente** para cada motorista, utilizando o **algoritmo do vizinho mais próximo**
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -50,10 +38,8 @@ O sistema é composto por dois módulos principais:
 | Tecnologia     | Descrição                                                                 |
 |----------------|---------------------------------------------------------------------------|
 | C#             | Desenvolvimento da interface gráfica (Windows Forms)                      |
-| Python         | Lógica de otimização e roteirização                                       |
 | SQL Server     | Armazenamento dos dados                                                   |
 | ADO.NET        | Conexão com o banco de dados no C# (via `System.Data.SqlClient`)          |
-| SQLAlchemy / pyodbc | Conexão com o banco de dados no Python (dependendo da biblioteca usada) |
 
 ---
 
