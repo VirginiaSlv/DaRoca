@@ -1,32 +1,71 @@
-# DaRoça
+# 🥬 DaRoça - Sistema de Logística de Entrega de Alimentos
 
-##DaRoça: Sistema de Logística de Entrega de Alimentos
-Este projeto, chamado "DaRoça", é uma solução de software para otimizar a logística de entrega de uma empresa de alimentos que trabalha com produtos frescos e orgânicos. A aplicação foi desenvolvida para resolver o desafio de programar as melhores rotas de entrega, garantindo a praticidade e a qualidade do serviço.
+**DaRoça** é uma solução de software desenvolvida para otimizar a logística de entrega de uma empresa especializada em produtos frescos e orgânicos. O sistema foi projetado para facilitar a programação de rotas eficientes de entrega, garantindo praticidade, economia e qualidade no serviço.
 
-Visão Geral
-A empresa "DaRoça" oferece um serviço de entrega de alimentos onde os clientes podem escolher produtos e definir a frequência de recebimento (única vez, semanalmente, quinzenalmente ou mensalmente).
+---
 
-O foco principal deste projeto é a otimização da entrega e do transporte dos alimentos, utilizando algoritmos de roteirização para definir as rotas mais eficientes para os motoristas.
+## 📦 Visão Geral
 
-Funcionalidades
-O sistema é composto por duas partes principais:
+A empresa **DaRoça** oferece um serviço de entrega de alimentos, onde os clientes podem:
 
-Front-end (Windows Forms): Uma interface visual (em C#) para que os usuários possam gerenciar o histórico de pedidos, motoristas e centros de distribuição.
+- Escolher os produtos desejados
+- Definir a frequência de entrega:
+  - Entrega única
+  - Entrega semanal
+  - Entrega quinzenal
+  - Entrega mensal
 
-Back-end (Lógica de Otimização): Um módulo de programação (em Python) responsável por:
+O foco principal do sistema é **otimizar o transporte dos alimentos**, utilizando algoritmos inteligentes para definir as **rotas mais eficientes** para os motoristas.
 
-Acessar os dados de clientes, pedidos, centros de distribuição e motoristas diretamente do banco de dados.
+---
 
-Distribuir os pedidos de forma equitativa entre os motoristas de um mesmo centro.
+## ⚙️ Funcionalidades
 
-Calcular a melhor rota de entrega para cada motorista, utilizando o método do vizinho mais próximo (algoritmo de otimização).
+O sistema é composto por dois módulos principais:
 
-Tecnologias
-Linguagem de Programação: C# e Python.
+### 🖥️ Front-end (C# com Windows Forms)
 
-Banco de Dados: SQL Server.
+- Interface gráfica intuitiva
+- Gerenciamento de:
+  - Pedidos
+  - Motoristas
+  - Centros de distribuição
+  - Histórico de entregas
 
-Acesso a Dados: Conexão direta ao banco de dados utilizando bibliotecas como System.Data.SqlClient (para C#) e conexões SQL (para Python).
+### 🧠 Back-end (Python - Lógica de Otimização)
 
-Interface: Windows Forms.
+- Conexão direta com o banco de dados
+- Leitura e manipulação de dados de:
+  - Clientes
+  - Pedidos
+  - Centros de distribuição
+  - Motoristas
+- Distribuição equitativa de pedidos entre motoristas de um mesmo centro
+- Cálculo da **rota de entrega mais eficiente** para cada motorista, utilizando o **algoritmo do vizinho mais próximo**
 
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia     | Descrição                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| C#             | Desenvolvimento da interface gráfica (Windows Forms)                      |
+| Python         | Lógica de otimização e roteirização                                       |
+| SQL Server     | Armazenamento dos dados                                                   |
+| ADO.NET        | Conexão com o banco de dados no C# (via `System.Data.SqlClient`)          |
+| SQLAlchemy / pyodbc | Conexão com o banco de dados no Python (dependendo da biblioteca usada) |
+
+---
+
+## 🧩 Algoritmo de Otimização
+
+O sistema utiliza o **algoritmo do vizinho mais próximo (Nearest Neighbor Algorithm)** para encontrar a melhor sequência de entregas, minimizando o tempo e a distância percorrida por cada motorista.
+
+---
+
+## 🚀 Objetivos do Projeto
+
+- Reduzir custos com transporte
+- Garantir a entrega de produtos frescos com qualidade
+- Facilitar a gestão logística de empresas do ramo alimentício
+- Automatizar a distribuição e roteirização de pedidos
