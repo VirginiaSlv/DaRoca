@@ -4,6 +4,14 @@
 
 ---
 
+## 👥 Equipe
+
+- Integrante 1: *Elisa*  
+- Integrante 2: *Matheus*
+- - Integrante 2: *Virgínia*
+    
+---
+
 ## 📦 Visão Geral
 
 A empresa **DaRoça** oferece um serviço de entrega de alimentos, onde os clientes podem:
