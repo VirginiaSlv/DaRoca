@@ -6,9 +6,9 @@
 
 ## 👥 Equipe
 
-- Integrante 1: *Elisa*  
-- Integrante 2: *Matheus*
-- - Integrante 2: *Virgínia*
+- Integrante 1: *Elisa Chen Huang*  
+- Integrante 2: *Matheus Ferreira Fagundes*
+- Integrante 2: *Virgínia da Silva*
     
 ---
 
