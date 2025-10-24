@@ -14,11 +14,6 @@
 
 ## 📦 Visão Geral
 
-A empresa **DaRoça** oferece um serviço de entrega de alimentos, onde os clientes podem:
-
-- Escolher os produtos desejados
-- Realizar a entrega
-
 O foco principal do sistema é **otimizar o transporte dos alimentos**, utilizando algoritmos inteligentes para definir as **rotas mais eficientes** para os motoristas.
 
 ---
